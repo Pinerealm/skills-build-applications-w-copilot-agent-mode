@@ -1,0 +1,2 @@
+// This file is used to import the octofitapp-small.png logo into the React app.
+// The image will be referenced in App.js for the left-justified logo in the navigation bar.
